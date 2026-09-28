@@ -1,0 +1,15 @@
+#2026-09-03 12:38
+##data 
+/data/
+#
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
